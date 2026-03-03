@@ -9,8 +9,11 @@ Assign a lead score (0–100) to rank prospects and enable the sales team to foc
 ## Approach
 
 • Performed exploratory data analysis to identify key behavioural and demographic drivers of lead conversion.
+
 • Engineered features and handled missing values, categorical encoding, and model-ready preprocessing.
+
 • Built and compared multiple classification models (Logistic Regression, Random Forest, XGBoost).
+
 • Tuned XGBoost using GridSearchCV and optimised decision threshold to align with business objective (precision-focused strategy).
 
 ## Skill set applied

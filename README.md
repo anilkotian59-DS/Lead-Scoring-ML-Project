@@ -1,10 +1,17 @@
 # Lead Scoring ML Project
 
-## Objective
-Develop a predictive model to identify high-potential leads and improve sales conversion efficiency through data-driven prioritisation
+## Overview
+An EdTech company generates a large number of digital leads, but only ~30% convert.
+Sales teams contact every lead manually, reducing productivity and wasting effort on low-intent prospects.
 
-## End Goal
-Assign a lead score (0–100) to rank prospects and enable the sales team to focus on the highest-likelihood-to-convert leads.
+This project builds an AI-powered lead scoring system to prioritise high-potential leads and improve conversion efficiency.
+
+## Problem Statement
+High lead volume with low conversion efficiency due to the absence of a prioritisation system.
+Sales teams spend significant time on low-probability leads while high-intent prospects risk delayed engagement.
+
+## Objective
+Develop a predictive model to identify high-potential leads and improve sales conversion efficiency through data-driven prioritization.
 
 ## Approach
 
